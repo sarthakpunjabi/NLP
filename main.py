@@ -20,13 +20,6 @@ def replace():
 
         print(main_list)
 
-    # for i in main_list:
-    #     if len(main_list) > 1:
-    #
-    #         for x in main_list:
-    #             doc = doc.replace(main_list[0][1],main_list[0][0])
-    # print(doc)
-
 
     # Creating a dictionary from clusters, where Key will be the first word of each list of list and rest other items will be values.
 
